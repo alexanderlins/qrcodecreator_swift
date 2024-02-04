@@ -1,2 +1,2 @@
-# qrcodecreator_swift
-QR Code Creator for Swift
+# QR Code Creator written in Swift
+You can generated personalised QR Codes with logo.
